@@ -1,0 +1,43 @@
+[
+    {
+      "name": "Italian",
+      "url": "spaghetti.png",
+      "id": 1
+    },
+    {
+      "name": "Chinese",
+      "url": "chinese-food.png",
+      "id": 2
+    },
+    {
+      "name": "Mexican",
+      "url": "enchilada.png",
+      "id": 3
+    },
+    {
+      "name": "American",
+      "url": "cheese-burger.png",
+      "id": 4
+    },
+    {
+      "name": "African",
+      "url": "curry.png",
+      "id": 5
+    },
+    {
+      "name": "Indian",
+      "url": "laddu.png",
+      "id": 6
+    },
+    {
+      "name": "Southern",
+      "url": "fried-chicken.png",
+      "id": 7
+    },
+    {
+      "name": "Soul Food",
+      "url": "spaghetti (1).png",
+      "id": 7
+    }
+]
+  
